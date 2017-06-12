@@ -1,0 +1,66 @@
+$mobile-only: "only screen and (max-width : 768px)";
+
+.headerContainer{
+  display: flex;
+  background: red;
+  width: 100%;
+  height: 70px;
+  .navContainer{
+    @media #{$mobile-only} {
+      background: black;
+    }
+    ul{
+      list-style: none;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      @media #{$mobile-only} {
+        display:block;
+      }
+      li{
+        padding: 12px;
+        color: #fff;
+        cursor: pointer;
+      }
+      .selected{
+        // background: purple;
+        border-bottom: 1px solid #fff;
+      }
+    }
+      @media #{$mobile-only} {
+    .showMenu{
+      display: block !important;
+    }
+    .hideMenu{
+      display: none !important;
+    }
+    }
+    .webMenu{
+      @media #{$mobile-only} {
+
+          position:absolute;
+          background: black;
+          height: 100%;
+          top:8px;
+          padding: 55px 0 0 20px;
+          margin: 0px;
+          width: 50%;
+
+        li{
+          color: #fff;
+          padding: 12px;
+
+        }
+      }
+    }
+    .mobileMenu{
+      display: none;
+      color: #fff;
+      margin: 16px;
+      @media #{$mobile-only} {
+        display: block;
+      }
+
+    }
+  }
+}

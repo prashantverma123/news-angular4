@@ -1,0 +1,17 @@
+<header id="header">
+  <div class="headerContainer" (click)="hideMenu()">
+    <nav class="navContainer">
+      <div style="padding:0px" class="mobileMenu" (click)="showHideMenu($event)"> <span style="font-size:25px;cursor:pointer">&#9776;</span></div>
+      <ul class="webMenu" [ngClass]="showMobileMenu?'showMenu':'hideMenu'">
+        <li (click)="onTabClick(0)" [ngClass]="tabId==0?'selected':''">Trending Galleries</li>
+        <li (click)="onTabClick(1)" [ngClass]="tabId==1?'selected':''">India & International </li>
+        <li (click)="onTabClick(2)" [ngClass]="tabId==2?'selected':''">Trending Stories</li>
+        <li (click)="onTabClick(3)" [ngClass]="tabId==3?'selected':''">The Buzz</li>
+        <li (click)="onTabClick(4)" [ngClass]="tabId==4?'selected':''">Technology &Business</li>
+        <li (click)="onTabClick(5)" [ngClass]="tabId==5?'selected':''">Entertainment & Sports</li>
+        <li (click)="onTabClick(6)" [ngClass]="tabId==6?'selected':''">Photo Galleries</li>
+      </ul>
+    </nav>
+  </div>
+
+</header>

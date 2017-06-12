@@ -1,0 +1,17 @@
+<app-header (onHeaderChnage)="getTabNews($event)"></app-header>
+
+<div class="newsBoardContainer" style="margin-top:20px;">
+  <div class="leftBoard" >
+    <div class="newsItem" *ngFor="let news of showNews" >
+      <div class="NewsImage" (click)="openNewsDetailView(news.shortUrl)">
+          <img class="imgBox" src={{news.imageThumb}} alt="" >
+      </div>
+      <div class="title" style="font-size:16px;font-weight:600">
+        {{news.title}}
+      </div>
+      <div class="maintitle">
+        {{news.main_title}}
+      </div>
+    </div>
+  </div>
+</div>

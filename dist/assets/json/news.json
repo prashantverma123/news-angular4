@@ -1,0 +1,1928 @@
+{
+	"time": 1496833810,
+	"status": 200,
+	"description": "SUCCESS",
+	"code": 1,
+	"httpcode": 200,
+	"response": {
+		"news": [{
+			"name": "trendingGalleries",
+			"label": "trendingGalleries",
+			"article": [{
+				"id": "62507",
+				"type": "News",
+				"subType": "Article",
+				"title": "Are cows safer in UP than women? You decide",
+				"main_title": "Uttar Pradesh rape graph: The dwindling law and order cripples women's safety",
+				"alias": "uttar-pradeshs-rape-graph-the-dwindling-law-and-order",
+				"altText": null,
+				"shortUrl": "https://goo.gl/jAGbMf",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1496748420-up_police_1.jpg",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496748420-up_police_1.jpg",
+				"category": {
+					"id": "166",
+					"name": "India",
+					"alias": "india"
+				}
+			}, {
+				"id": "62546",
+				"type": "News",
+				"subType": "Article",
+				"title": "Would love to work in Pak films & shows: Paresh Rawal",
+				"main_title": "Our shows boring, would love to work in Pak films and shows: Paresh Rawal",
+				"alias": "our-shows-boring-would-love-to-work-in-pakistani-films-and-shows-says-paresh-rawal",
+				"altText": null,
+				"shortUrl": "https://goo.gl/M1sW1w",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1496768710-paresh_rawal.jpg",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496768710-paresh_rawal.jpg",
+				"category": {
+					"id": "167",
+					"name": "Entertainment",
+					"alias": "entertainment"
+				}
+			}, {
+				"id": "62574",
+				"type": "News",
+				"subType": "Article",
+				"title": "Clean water shortage by 2050, UN warns",
+				"main_title": "The rising strains on water access will pose serious problems by 2050: UN chief",
+				"alias": "the-rising-strains-on-water-access-will-pose-serious-glitches-by-2050-un-chief",
+				"altText": null,
+				"shortUrl": "https://goo.gl/dHJJii",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1496808433-water_1.jpg",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496808433-water_1.jpg",
+				"category": {
+					"id": "182",
+					"name": "International",
+					"alias": "international"
+				}
+			}]
+		}, {
+			"name": "India & International",
+			"label": "Template 1",
+			"records": [{
+				"id": "166",
+				"name": "India",
+				"catAlias": "india",
+				"article": [{
+					"id": "62611",
+					"type": "News",
+					"subType": "Article",
+					"title": "Private vehicles making life 'hell': Venkaiah Naidu\u00a0",
+					"main_title": "Private vehicles making life 'hell': Venkaiah Naidu\u00a0",
+					"summary": "Venkaiah Naidu said there is a change in our lifestyles wherein tasks have become much less physical, so using bicycles will help us keep fit. ",
+					"alias": "private-vehicles-making-life-hell-venkaiah-naidu\u00a0bicycles-delhi-mumbai",
+					"shortUrl": "https://goo.gl/S4NHnD",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496833363-Venkaiah.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496833363-Venkaiah.jpg",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					}
+				}, {
+					"id": "62609",
+					"type": "News",
+					"subType": "Article",
+					"title": "Want regulators, pilots to work together: MoS",
+					"main_title": "Want regulators, pilots to work together: Jayant Sinha",
+					"summary": "Minister of State for Civil Aviation Jayant Sinha has said that regulators and pilots should work together in a \"very collaborative manner\"",
+					"alias": "want-regulators-pilots-to-work-together-jayant-sinha-dgca-jet-airways",
+					"shortUrl": "https://goo.gl/lpaJ5d",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496832807-jayant-sinha_afp.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496832807-jayant-sinha_afp.jpg",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					}
+				}, {
+					"id": "62606",
+					"type": "News",
+					"subType": "Video",
+					"title": "Girl's miraculous escape after train runs her over",
+					"main_title": "Watch: Girl's miraculous escape after train runs her over",
+					"summary": "19-year-old\u00a0Pratiksha Natekar had an unbelievable escape after a goods train ran her over at Mumbai\u2019s Kurla station",
+					"alias": "pratiksha-natekar-girl-miraculous-escape-train-kurla-station-mumbai",
+					"shortUrl": "https://goo.gl/Ia1XJu",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496829982-miraculous_escape_train.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496829982-miraculous_escape_train.JPG",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					},
+					"duration": "0"
+				}, {
+					"id": "62602",
+					"type": "News",
+					"subType": "Video",
+					"title": "PM Modi holds meet over Mandsaur farmer deaths",
+					"main_title": "Prime Minister Narendra Modi holds meeting over farmer deaths in Mandsaur",
+					"summary": "Prime Minister Narendra Modi held a meeting with senior ministers of his cabinet over the ongoing violence and the death of five farmers during the protests in Mandsaur.",
+					"alias": "prime-minister-narendra-modi-holds-meeting-over-farmer-deaths-in-mandsaur",
+					"shortUrl": "https://goo.gl/rrHsQ6",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496827893-1496141322-modi_1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496827893-1496141322-modi_1.jpg",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					},
+					"duration": "00:03:45"
+				}, {
+					"id": "62601",
+					"type": "News",
+					"subType": "Article",
+					"title": "Congress trying to politicise farmers\u2019 protest in MP: Naidu",
+					"main_title": "Cong trying to politicise farmers\u2019 protest in MP after failing to counter current govt",
+					"summary": "Yesterday, five people were killed during the uproar; while police were initially accused of firing at the farmers, the state officials rubbished such claims.",
+					"alias": "madhya-pradesh-farmers-protest-venkaiah-naidu-union-minister-bjp-congress-shivraj-singh-chouhan",
+					"shortUrl": "https://goo.gl/O9jzxo",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496826801-naidu.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496826801-naidu.JPG",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					}
+				}, {
+					"id": "62600",
+					"type": "News",
+					"subType": "Video",
+					"title": "Militant spotted at Sabzar Bhat's funeral surrenders",
+					"main_title": "Militant spotted at slain Hizbul Commander Sabzar Bhat's funeral surrenders",
+					"summary": "The militant was spotted wearing a battle pouch with a grenade at the funeral of slain Hizbul Commander Sabzar Bhat",
+					"alias": "hizbul-militant-spotted-at-slain-hizbul-commander-sabzar-bhat-funeral-surrenders",
+					"shortUrl": "https://goo.gl/ytPOR4",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496826602-DANISH.jpeg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496826602-DANISH.jpeg",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					},
+					"duration": "00:02:48"
+				}, {
+					"id": "62599",
+					"type": "News",
+					"subType": "Article",
+					"title": "Invaders failed to destroy religion in India: RSS leader",
+					"main_title": "Invaders failed to destroy religion in India: Krishna Gopal, RSS leader",
+					"summary": "A senior RSS functionary said on Wednesday that efforts by invaders to destroy religion in India by demolishing temples throughout history failed as people found new ways to reinvent it through the performing arts.",
+					"alias": "invaders-failed-destroy-religion-india-krishna-gopal-rss-leader",
+					"shortUrl": "https://goo.gl/8mBvOA",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496825754-gopal_1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496825754-gopal_1.jpg",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					}
+				}, {
+					"id": "62595",
+					"type": "News",
+					"subType": "Article",
+					"title": "7 year old rape victim's father opposes CBI closure plea",
+					"main_title": "Rape victim's father opposes CBI closure plea, seeks further probe",
+					"summary": "The father has filed a plea in a local court against the closure of the case related to the rape of his daughter at Vasco, alleging that there have been serious lapses in the investigation",
+					"alias": "rape-victims-father-opposes-cbi-closure-plea-seeks-further-probe",
+					"shortUrl": "https://goo.gl/4qHleX",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496822316-1496742316-rape.PNG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496822316-1496742316-rape.PNG",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					}
+				}, {
+					"id": "62584",
+					"type": "News",
+					"subType": "Article",
+					"title": "Nirbhaya repeat: Minor gang-raped in bus in Tamil Nadu",
+					"main_title": "Nirbhaya repeat: Minor gang-raped in bus by two drivers and conductor",
+					"summary": "A 15-year-old girl was allegedly raped by two drivers and a conductor in a bus near Salem, the police said today.",
+					"alias": "nirbhaya-repeat-teenage-girl-gang-raped-in-bus-two-drivers-conductor",
+					"shortUrl": "https://goo.gl/TksnLT",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496813689-Rape_case.PNG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496813689-Rape_case.PNG",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					}
+				}, {
+					"id": "62579",
+					"type": "News",
+					"subType": "Video",
+					"title": "IT department serves showcause notice to Trinamool Congress",
+					"main_title": "IT department serves showcause notice to Trinamool Congress",
+					"summary": "Income Tax department has sought an explanation from Trinamool Congress (TMC) for the undisclosed 24 cr\u00a0spent by the party before the 2014 elections.",
+					"alias": "trinamool-congress-tmc-scam-it-department-graft-case-mamata-banerjee",
+					"shortUrl": "https://goo.gl/dPN2j7",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496811105-1492001321-1478938973-mamata.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496811105-1492001321-1478938973-mamata.jpg",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					},
+					"duration": "00:37:40"
+				}, {
+					"id": "62583",
+					"type": "News",
+					"subType": "Video",
+					"title": "Gurugram gang-rape: Suspects' sketches released",
+					"main_title": "Gurugram gang-rape case: Police releases sketches of the accused",
+					"summary": "The police released sketches of the three accused in a case of gang-rape of a woman and murder of her infant daughter.",
+					"alias": "gurgaon-gurugram-gang-rape-case-police-releases-sketches-of-the-accused",
+					"shortUrl": "https://goo.gl/wjUl2a",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496812373-gurugangrape.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496812373-gurugangrape.jpg",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					},
+					"duration": "00:02:48"
+				}, {
+					"id": "62582",
+					"type": "News",
+					"subType": "Article",
+					"title": "UP: Fresh triple murder raises questions on law and order",
+					"main_title": "UP: In attempt to rob businessman, crooks kill wife and son",
+					"summary": "No arrests have been made in the case so far, bur the police have suspected the incident to be a case of robbery.",
+					"alias": "uttar-pradesh-law-and-order-robbery-sitapur-yogi-adityanath",
+					"shortUrl": "https://goo.gl/tSmbyR",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496812128-triple_murder.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496812128-triple_murder.JPG",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					}
+				}, {
+					"id": "62572",
+					"type": "News",
+					"subType": "Video",
+					"title": "MP govt under pressure as farmer's protest intensifies",
+					"main_title": "Farmer protests: Five people die during outrage; Madhya Pradesh CM declares ex-gratia",
+					"summary": "While some people said that the police opened fire on the farmers to control the situation, district authorities and the chief minister have denied the involvement of cops.",
+					"alias": "farmer-protests-people-die-during-outrage-madhya-pradesh-cm-shivraj-singh-chouhan-declares-ex-gratia",
+					"shortUrl": "https://goo.gl/c5dNRg",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496807808-farmerprotests.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496807808-farmerprotests.jpg",
+					"category": {
+						"id": "166",
+						"name": "India",
+						"alias": "india"
+					},
+					"duration": "0"
+				}],
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				}
+			}, {
+				"id": "182",
+				"name": "International",
+				"catAlias": "international",
+				"article": [{
+					"id": "62596",
+					"type": "News",
+					"subType": "Article",
+					"title": "UAE threatens Qatar sympathisers with jail",
+					"main_title": "UAE threatens Qatar sympathisers with jail",
+					"summary": "The United Arab Emirates warned that anyone showing sympathy with Qatar over sanctions imposed by its Gulf neighbours could face up to 15 years in prison.",
+					"alias": "qatar-gulf-crisis-sanctions-isolate-middle-east-jail-saudi-arabia-uae",
+					"shortUrl": "https://goo.gl/qLzom4",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496823747-1496716341-qatar_11.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496823747-1496716341-qatar_11.jpg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62590",
+					"type": "News",
+					"subType": "Article",
+					"title": "China may set up military base in Pakistan: US report ",
+					"main_title": "Pentagon reports says China may set up military base in Pakistan, other \u2018ally\u2019 nations",
+					"summary": "China is expanding its access to foreign ports to pre-position the necessary logistics support to regularise and sustain deployments in the \"far seas\", says the report. ",
+					"alias": "pakistan-china-military-base-united-states-report",
+					"shortUrl": "https://goo.gl/1SdY6F",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496818897-armychina.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496818897-armychina.JPG",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62586",
+					"type": "News",
+					"subType": "Article",
+					"title": "London attacker's mother blames radicalisation on Internet",
+					"main_title": "London attacker's mother blames radicalisation on Internet",
+					"summary": "London attacker Youssef Zaghba's mother said on Wednesday that she tried to prevent him from being radicalised \"but he had internet\".",
+					"alias": "london-terror-attack-youssef-zagba-internet-knife-attack-extremist-islamist",
+					"shortUrl": "https://goo.gl/wmP6ji",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496814511-1496747863-000_PB0CT_third_london_attacker_metropolitan_police.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496814511-1496747863-000_PB0CT_third_london_attacker_metropolitan_police.jpg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62588",
+					"type": "News",
+					"subType": "Video",
+					"title": "Twin terror attacks strike Iran, many injured",
+					"main_title": "Gunmen attack Iran's parliament, Khomeini shrine",
+					"summary": "The Islamic State group claimed twin attacks in Tehran targeting parliament and the shrine of Ruhollah Khomeini, state media reported.",
+					"alias": "iran-shooting-parliament-state-media",
+					"shortUrl": "https://goo.gl/2DjXdb",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496821319-mehr_news_agency.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496821319-mehr_news_agency.JPG",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					},
+					"duration": "00:00:16"
+				}, {
+					"id": "62577",
+					"type": "News",
+					"subType": "Article",
+					"title": "Trump wishes Comey \"luck\" before testimony",
+					"main_title": "US President Donald Trump wishes James Comey \"luck\" before testimony",
+					"summary": "United States President Donald Trump wished former FBI director James Comey \"luck\" ahead of his highly anticipated testimony to Congress on Thursday.",
+					"alias": "us-president-donald-trump-james-comey-fbi-director-testimony-congress-russia",
+					"shortUrl": "https://goo.gl/SMHX2a",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496809848-1496221704-donald-trump1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496809848-1496221704-donald-trump1.jpg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62576",
+					"type": "News",
+					"subType": "Article",
+					"title": "London attacker stopped during Syria visit on suspicion",
+					"main_title": "London attack: Youssef Zaghba stopped en route Syria, flagged as suspect",
+					"summary": "Youssef Zaghba, one of three authors of Saturday's deadly attack in London, was intercepted last year en route to Syria and flagged to Britain as a possible jihadist.",
+					"alias": "london-attack-man-stopped-en-route-syria-flagged-as-suspect",
+					"shortUrl": "https://goo.gl/Pu6DUR",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496809739-yusu_1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496809739-yusu_1.jpg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62578",
+					"type": "News",
+					"subType": "Article",
+					"title": "Uber fires 20 employees after harassment probe",
+					"main_title": "Uber fires 20 employees after harassment probe",
+					"summary": "Uber said on Tuesday that an internal investigation into workplace misdeeds has resulted in 20 people being fired.",
+					"alias": "uber-fires-20-employees-after-harassment-probe",
+					"shortUrl": "https://goo.gl/MCn45Z",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496810345-Uber.jpeg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496810345-Uber.jpeg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62574",
+					"type": "News",
+					"subType": "Article",
+					"title": "Clean water shortage by 2050, UN warns",
+					"main_title": "The rising strains on water access will pose serious problems by 2050: UN chief",
+					"summary": "The global demand for freshwater is expected to increase and at least a quarter of the world\u2019s population will live a chronic of clean water by 2050.",
+					"alias": "the-rising-strains-on-water-access-will-pose-serious-glitches-by-2050-un-chief",
+					"shortUrl": "https://goo.gl/dHJJii",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496808433-water_1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496808433-water_1.jpg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62573",
+					"type": "News",
+					"subType": "Article",
+					"title": "Brazil court opens session that could topple president",
+					"main_title": "Brazil court opens session that could topple president",
+					"summary": "Brazil's electoral court started hearings that could topple scandal-tainted President Michel Temer, plunging the country into its second leadership crisis in a year.",
+					"alias": "brazil-president-president-dilma-rousseff-impeachment-corruption-scandals",
+					"shortUrl": "https://goo.gl/1Twgj0",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496808063-1495650842-Michel_Temer.png",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496808063-1495650842-Michel_Temer.png",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62571",
+					"type": "News",
+					"subType": "Article",
+					"title": "Russian hackers may have triggered Gulf crisis",
+					"main_title": "At it again: Russian hackers may have triggered Gulf diplomatic crisis using fake news",
+					"summary": "United Intelligence officials believe that Russian hackers used fake news yet again to trigger a diplomatic crisis - their victims this time around were the Gulf States.",
+					"alias": "russian-hackers-fbi-gulf-crisis-qatar-isolate-middle-east-saudi-arabia-russia",
+					"shortUrl": "https://goo.gl/gMAsGG",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496806799-1496753644-Hacking.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496806799-1496753644-Hacking.jpg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62570",
+					"type": "News",
+					"subType": "Article",
+					"title": "US on the 'wrong side of history': French UN envoy",
+					"main_title": "US decision to quit the Paris agreement will erode its moral leadership: French UN envoy",
+					"summary": "President Donald Trump's decision to quit the Paris climate accord will erode US moral and political leadership in the world, France's ambassador to the United Nations has said.",
+					"alias": "us-decision-to-quit-the-paris-agreement-will-erode-its-moral-leadership-french-un-envoy",
+					"shortUrl": "https://goo.gl/bUhQud",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496806461-france_1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496806461-france_1.jpg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62569",
+					"type": "News",
+					"subType": "Article",
+					"title": "Britain braces for election in wake of terror attacks",
+					"main_title": "Britain braces for election in wake of terror attacks",
+					"summary": "Britain braces for the final day of general election campaigning on Wednesday, after a turbulent few weeks which have been marred by terror attacks.\u00a0",
+					"alias": "britain-braces-for-election-in-wake-of-terror-attacks",
+					"shortUrl": "https://goo.gl/90sTrE",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496804975-theresa_1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496804975-theresa_1.jpg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}, {
+					"id": "62567",
+					"type": "News",
+					"subType": "Article",
+					"title": "Tump calls King Salman on Qatar crisis, asks for unity",
+					"main_title": "US President Donald Tump calls King Salman on Qatar crisis, asks for Gulf unity",
+					"summary": " United States President Donald Trump discussed the formation of a united Gulf Cooperation Council to fight terrorism and promote stability in the region.",
+					"alias": "qatar-crisis-gulf-states-severe-diplomatic-ties-isolate-middle-east",
+					"shortUrl": "https://goo.gl/pHGFnL",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496803597-TRUMP_KING_SALMAN.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496803597-TRUMP_KING_SALMAN.jpg",
+					"category": {
+						"id": "182",
+						"name": "International",
+						"alias": "international"
+					}
+				}],
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				}
+			}]
+		}, {
+			"name": "trendingStories",
+			"label": "trendingStories",
+			"article": [{
+				"id": "62542",
+				"type": "News",
+				"subType": "Video",
+				"title": "EXCL: I-T notice to TMC seeks details of Rs 24 cr splurge",
+				"main_title": "EXCL: Income Tax notice to TMC seeks details over a Rs 24 crore splurge in 2014",
+				"altText": null,
+				"alias": "excl-income-tax-notice-to-tmc-seeks-details-rs-24-crore-splurge-in-2014",
+				"shortUrl": "https://goo.gl/QjLe10",
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1496766001-DD1.png",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496766001-DD1.png",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"duration": "00:19:07",
+				"category": {
+					"id": "166",
+					"name": "India",
+					"alias": "india"
+				}
+			}, {
+				"id": "62277",
+				"type": "News",
+				"subType": "Video",
+				"title": "ISIS calling? Recruiter calls to spread 'Allah's message'",
+				"main_title": "ISIS recruiter radicalises Indian-Muslim youths, calls to spread 'Allah's teachings'",
+				"altText": null,
+				"alias": "isis-afghanistan-caliphate-isis-recruiter-kerala-india-allah-teachings",
+				"shortUrl": "https://goo.gl/otCVrh",
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1496479217-ISIS1.jpg",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496479217-ISIS1.jpg",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"duration": "00:01:13",
+				"category": {
+					"id": "166",
+					"name": "India",
+					"alias": "india"
+				}
+			}, {
+				"id": "62239",
+				"type": "News",
+				"subType": "Video",
+				"title": "EXCL: RK Pachauri's alleged sexual messages genuine? ",
+				"main_title": "EXCL: RK Pachauri's alleged sexual messages prove to be genuine, victim vindicated",
+				"altText": null,
+				"alias": "exclusive-rk-pachauris-alleged-sexual-messages-prove-to-be-genuine-victim-vindicated",
+				"shortUrl": "https://goo.gl/2uJMZA",
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1496415971-pachauri.jpg",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496415971-pachauri.jpg",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"duration": "00:46:34",
+				"category": {
+					"id": "166",
+					"name": "India",
+					"alias": "india"
+				}
+			}],
+			"chat": [
+				[]
+			]
+		}, {
+			"name": "Entertainment & Sports",
+			"label": "Template 2",
+			"records": [{
+				"id": "167",
+				"name": "Entertainment",
+				"catAlias": "entertainment",
+				"article": [{
+					"id": "62610",
+					"type": "News",
+					"subType": "Article",
+					"title": "In Vishal Bhardwaj\u2019s film, Deepika plays mafia queen",
+					"main_title": "In Vishal Bhardwaj\u2019s film, Deepika Padukone plays mafia queen. More details here",
+					"summary": "Vishal Bhardwaj is happy that Honey could work with a dream cast in his very first film",
+					"alias": "in-vishal-bhardwaj\u2019s-film-deepika-padukone-plays-mafia-queen-more-details-here",
+					"shortUrl": "https://goo.gl/qHnQxj",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496833286-deepikavishalbhardwaj.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496833286-deepikavishalbhardwaj.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62605",
+					"type": "News",
+					"subType": "Article",
+					"title": "Box office results don't influence Sushant's\u00a0choice of films",
+					"main_title": "Box office results don't influence my choice of films: Sushant Singh Rajput",
+					"summary": "\"I am pushed by difficult roles offered in a film and feel the challenge to deliver,\" Sushant said",
+					"alias": "box-office-results-dont-influence-my-choice-of-films-sushant-singh-rajput",
+					"shortUrl": "https://goo.gl/FgFJUV",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496829594-sushantdhoni.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496829594-sushantdhoni.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62597",
+					"type": "News",
+					"subType": "Article",
+					"title": "SRK, AbRam\u2019s perfect genes. Couldn't agree more ",
+					"main_title": "Shah Rukh Khan and AbRam\u2019s \u2018perfect fitting genes.\u2019 We couldn\u2019t agree more",
+					"summary": "\u201cHav u ever seen a better pair of perfect fitting genes?\u201d Shah Rukh Khan writes, and we absolutely couldn\u2019t agree more",
+					"alias": "shah-rukh-khan-and-abram-perfect-fitting-genes-we-couldn\u2019t-agree-more",
+					"shortUrl": "https://goo.gl/IQpJY4",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496823967-srkabraaaam.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496823967-srkabraaaam.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62594",
+					"type": "News",
+					"subType": "Article",
+					"title": "Disha Patani\u2019s 'vella' diaries with Tiger's sister ",
+					"main_title": "Such friendly 'affairs': Disha Patani\u2019s 'vella' diaries with Tiger Shroff's sister Krishna",
+					"summary": "Disha Patani shared some adorable and fun pictures with rumoured boyfriend Tiger Shroff's sister, Krishna while Tiger is busy with the promotions of Munna Michael.",
+					"alias": "such-friendly-affairs-disha-patani-vella-diaries-tiger-shroffs-sister-krishna",
+					"shortUrl": "https://goo.gl/TiHpBP",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496822297-disha_1_0.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496822297-disha_1_0.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62589",
+					"type": "News",
+					"subType": "Article",
+					"title": "George and Amal Clooney welcome twins",
+					"main_title": "George and Amal Clooney welcome twins. Read their statement",
+					"summary": "George and Amal Clooney, one of the most glamorous power couples in the world, on Tuesday announced that they had become parents to twins",
+					"alias": "george-and-amal-clooney-welcome-twins-read-their-statement",
+					"shortUrl": "https://goo.gl/LlybzX",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496818367-georgheamal.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496818367-georgheamal.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62585",
+					"type": "News",
+					"subType": "Article",
+					"title": "Anupam Kher plays Manmohan Singh in this film",
+					"main_title": "First Look: Anupam Kher as Manmohan Singh in The Accidental Prime Minister",
+					"summary": "Set against the Parliament, the polaroid poster features a silhouette of Mr Kher dressed as Manmohan Singh",
+					"alias": "first-look-anupam-kher-as-manmohan-singh-in-the-accidental-prime-minister",
+					"shortUrl": "https://goo.gl/lNUskb",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496813724-anuaopmkhernew.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496813724-anuaopmkhernew.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62581",
+					"type": "News",
+					"subType": "Article",
+					"title": "Saif Ali Khan\u2019s Chef will release on this date",
+					"main_title": "Saif Ali Khan\u2019s Chef will release on this date",
+					"summary": "The makers of Chef released a statement on Tuesday in which they said that film, which was earlier scheduled for July 14, will now release in October",
+					"alias": "saif-ali-khan-chef-will-release-on-this-date-jagga-jasoos-ranbir-kapoor",
+					"shortUrl": "https://goo.gl/24z4vD",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496811907-chefrelease.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496811907-chefrelease.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62546",
+					"type": "News",
+					"subType": "Article",
+					"title": "Would love to work in Pak films & shows: Paresh Rawal",
+					"main_title": "Our shows boring, would love to work in Pak films and shows: Paresh Rawal",
+					"summary": "Actor Paresh Rawal said he would love to work in Pakistani films and shows, adding that artists and cricketers are not the ones to \u201ccome and throw bombs.\u201d",
+					"alias": "our-shows-boring-would-love-to-work-in-pakistani-films-and-shows-says-paresh-rawal",
+					"shortUrl": "https://goo.gl/M1sW1w",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496768710-paresh_rawal.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496768710-paresh_rawal.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62499",
+					"type": "News",
+					"subType": "Article",
+					"title": "Game of Thrones: Sansa Stark to get a dark makeover?",
+					"main_title": "Game of Thrones: Sansa Stark to get a dark makeover?",
+					"summary": "Actress Sophie Turner who plays Sansa Stark has hinted that her meek and demure character may embrace her dark and evil side this season.",
+					"alias": "game-of-thrones-sansa-stark-lannisters-sophie-turner-fantasy-winter-is-coming",
+					"shortUrl": "https://goo.gl/2F72Ip",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496745305-sansastark.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496745305-sansastark.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62487",
+					"type": "News",
+					"subType": "Article",
+					"title": "The Sara Ali Khan and Sushant film might be true",
+					"main_title": "The Sara Ali Khan and Sushant Singh Rajput film might just be true",
+					"summary": "Kedarnath will be directed by Abhishek Kapoor, who is also responsible for Sushant\u2019s debut film Kai Po Che",
+					"alias": "the-sara-ali-khan-and-sushant-singh-rajput-film-might-just-be-true",
+					"shortUrl": "https://goo.gl/5HkvqE",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496738422-saraamrita1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496738422-saraamrita1.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62472",
+					"type": "News",
+					"subType": "Article",
+					"title": "A Gentleman teaser: Meet the susheel but risky Sidharth",
+					"main_title": "A Gentleman teaser: Meet the sundar, susheel but risky Sidharth Malhotra",
+					"summary": "Get ready as the sundar, susheel Sidharth Malhotra and the gorgeous Jacqueline Fernandez tease you into a thrilling ride of their new film A Gentleman.",
+					"alias": "a-gentleman-teaser-meet-sundar-susheel-risky-sidharth-malhotra",
+					"shortUrl": "https://goo.gl/O3lwia",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496734358-sidgentkle.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496734358-sidgentkle.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62476",
+					"type": "News",
+					"subType": "Article",
+					"title": "Munna Michael: Tiger Shroff was \u2018intimidated\u2019 by Nawazuddin\u00a0",
+					"main_title": "Tiger Shroff was \u2018intimidated\u2019 by Nawazuddin Siddiqui on Munna Michael set",
+					"summary": "Nawazuddin has been cast as a gangster in Munna Michael in which Tiger plays the lead role of a Michael Jackson fan who lives to dance",
+					"alias": "tiger-shroff-was-\u2018intimidated\u2019-by-nawazuddin-siddiqui-on-munna-michael-set",
+					"shortUrl": "https://goo.gl/iagRfk",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496732695-nawaztiger.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496732695-nawaztiger.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}, {
+					"id": "62468",
+					"type": "News",
+					"subType": "Article",
+					"title": "Hrithik dismisses report of misbehaving with fan",
+					"main_title": "Hrithik Roshan dismisses report of misbehaving with fan. He tweeted this",
+					"summary": "Hrithik Roshan has dismissed a report which claimed that he misbehaved with a fan while working out at the gym",
+					"alias": "hrithik-roshan-dismisses-report-of-misbehaving-with-fan-he-tweeted-this",
+					"shortUrl": "https://goo.gl/kxNvOm",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496728135-hrithikreport.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496728135-hrithikreport.jpg",
+					"category": {
+						"id": "167",
+						"name": "Entertainment",
+						"alias": "entertainment"
+					}
+				}],
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				}
+			}, {
+				"id": "168",
+				"name": "Sports",
+				"catAlias": "sports",
+				"article": [{
+					"id": "62575",
+					"type": "News",
+					"subType": "Article",
+					"title": "Virat Kohli urges India to build on Pakistan rout",
+					"main_title": "Champions Trophy: Virat Kohli urges India to build on Pakistan rout",
+					"summary": "Kohli's side made a memorable start to the tournament as the defending champions crushed arch-rivals Pakistan by 124 runs in Birmingham on Sunday.",
+					"alias": "virat-kohli-urges-india-champions-trophy-sri-lanka",
+					"shortUrl": "https://goo.gl/cld9Ta",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496809973-kohli.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496809973-kohli.JPG",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62562",
+					"type": "News",
+					"subType": "Article",
+					"title": "Bacsinszky, Ostapenko in French Open semi-final battle",
+					"main_title": "Bacsinszky, Ostapenko in French Open semi-final birthday battle",
+					"summary": "Swiss 30th seed Timea Bacsinszky reached the French Open semi-finals for the second time on Tuesday and will meet Latvian teenager Jelena Ostapenko for a shot at the title.",
+					"alias": "timea-bacsinszky-jelena-ostapenko-reached-the-french-open-2017-semi-finals",
+					"shortUrl": "https://goo.gl/8kuLfp",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496776040-000_PB5H2.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496776040-000_PB5H2.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62558",
+					"type": "News",
+					"subType": "Article",
+					"title": "Manchester United world's most valuable club - Forbes",
+					"main_title": "Manchester United world's most valuable club - Forbes",
+					"summary": "Manchester United have overtaken Real Madrid as the world's most valuable football team, US magazine Forbes announced on Tuesday.",
+					"alias": "manchester-united-football-worlds-most-valuable-club-forbes",
+					"shortUrl": "https://goo.gl/EmDcsJ",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496774415-zlatann.jpeg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496774415-zlatann.jpeg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62554",
+					"type": "News",
+					"subType": "Article",
+					"title": "CT 2017: England beat NZ to reach semi-final",
+					"main_title": "Champions Trophy 2017: England beat New Zealand by 87 runs, enter semi-finals",
+					"summary": "England booked their place in the semi-finals of the Champions Trophy with an 87-run win over New Zealand in Cardiff on Tuesday.",
+					"alias": "icc-champions-trophy-2017-england-beat-new-zealand-by-87-runs-enter-semi-finals",
+					"shortUrl": "https://goo.gl/rXHtQ5",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496772675-victoryeng.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496772675-victoryeng.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62552",
+					"type": "News",
+					"subType": "Article",
+					"title": "Rain pushes Nadal, Djokovic quarter-finals back to Wednesday",
+					"main_title": "Rain pushes Nadal, Djokovic French Open 2017 quarter-finals back to Wednesday",
+					"summary": "Torrential rain forced Rafael Nadal and Novak Djokovic's quarter-finals at the French Open to be delayed until Wednesday.",
+					"alias": "rain-pushes-nadal-djokovic-french-open-2017-quarter-finals-back-to-wednesday",
+					"shortUrl": "https://goo.gl/zY75ll",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496771911-novak.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496771911-novak.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62549",
+					"type": "News",
+					"subType": "Article",
+					"title": "CT 2017: Pakistan pride at stake against South Africa",
+					"main_title": "Champions Trophy 2017: Pakistan pride at stake against South Africa",
+					"summary": "Mickey Arthur has no doubt Pakistan will be \"up for the fight\" when they face his native South Africa in the Champions Trophy after a humiliating defeat by arch-rivals India.",
+					"alias": "pakistan-vs-south-africa-icc-champions-trophy-2017",
+					"shortUrl": "https://goo.gl/NaVXAH",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496770570-saa.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496770570-saa.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62520",
+					"type": "News",
+					"subType": "Article",
+					"title": "I\u2019m very very expensive for BCCI to afford: Shane Warne",
+					"main_title": "Very expensive for BCCI to afford, says Shane Warne about being India coach",
+					"summary": "I am very expensive, I don\u2019t think they can afford me.\u00a0Virat Kohli\u00a0and me can have a good partnership, but as I said, I am very, very expensive,\u201d Warne is quoted as saying by\u00a0Mid-Day.",
+					"alias": "very-expensive-for-bcci-to-afford-says-shane-warne-about-being-india-coach",
+					"shortUrl": "https://goo.gl/vkqpzm",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496754932-shanewarner.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496754932-shanewarner.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62484",
+					"type": "News",
+					"subType": "Article",
+					"title": "Australia, ready for England showdown: Smith",
+					"main_title": "Australia will be ready for England showdown, says Steve Smith",
+					"summary": "Steve Smith insists Australia's batsmen will be ready for their do or die Champions Trophy showdown with England despite their lack of action in the tournament.",
+					"alias": "australia-ready-for-england-showdown-says-steve-smith-icc-champions-trophy",
+					"shortUrl": "https://goo.gl/G6jWgQ",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496737720-GettyImages-692634192.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496737720-GettyImages-692634192.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62477",
+					"type": "News",
+					"subType": "Article",
+					"title": "Football player dies after collapsing during training",
+					"main_title": "Football player Cheick Tiote dies after collapsing during training in China",
+					"summary": "Tiote was also part of the Ivory Coast squad that delivered the 2015 Africa Cup of Nations after a 23-year drought.",
+					"alias": "football-cheick-tiote-dies-after-collapsing-during-training-china",
+					"shortUrl": "https://goo.gl/8KayIG",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496734261-tiote.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496734261-tiote.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62460",
+					"type": "News",
+					"subType": "Article",
+					"title": "Advantage England in must-win match for Kiwis",
+					"main_title": "New Zealand look to revive Champions Trophy campaign after a frustrating start",
+					"summary": "Tuesday's fixture takes place amid heightened concerns over security following recent terror attacks in Manchester and London.",
+					"alias": "champions-trophy-cricket-new-zealand-england-at-cardiff",
+					"shortUrl": "https://goo.gl/ZcVNxc",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496725997-kane.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496725997-kane.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62446",
+					"type": "News",
+					"subType": "Article",
+					"title": "CT 2017: Rain leaves Aus in do-or-die situation",
+					"main_title": "Champions Trophy 2017: Washout against Bangladesh leaves Australia in do-or-die situation",
+					"summary": "Two-time champions Australia will have to beat the hosts in Birmingham on June 10 to qualify for the semi-finals.",
+					"alias": "champions-trophy-2017-australia-vs-bangladesh-no-result",
+					"shortUrl": "https://goo.gl/F0cmev",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496695751-smithy.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496695751-smithy.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62442",
+					"type": "News",
+					"subType": "Article",
+					"title": "Mladenovic, Wozniacki hope high for quarter-finals",
+					"main_title": "Kristina Mladenovic, Caroline Wozniacki hope high for French Open 2017 quarter-finals",
+					"summary": "Kristina Mladenovic leads home hopes into Tuesday's quarter-finals while former world number one Caroline Wozniacki tackles ballroom dancing Latvian Jelena Ostapenko",
+					"alias": "kristina-mladenovic-caroline-wozniacki-hope-high-for-french-open-2017-quarter-finals",
+					"shortUrl": "https://goo.gl/b4W5QG",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496688981-carolina.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496688981-carolina.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}, {
+					"id": "62439",
+					"type": "News",
+					"subType": "Article",
+					"title": "Nadal, Djokovic close in on semi-final blockbuster",
+					"main_title": "Rafael Nadal, Novak Djokovic close in on semi-final blockbuster at French Open 2017",
+					"summary": "Rafael Nadal and defending champion Novak Djokovic will set up a French Open semi-final blockbuster if they get through their last-eight clashes on Tuesday.\u00a0",
+					"alias": "rafael-nadal-novak-djokovic-close-in-on-semi-final-blockbuster-at-french-open-2017",
+					"shortUrl": "https://goo.gl/YWguGb",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496688339-rafanova.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496688339-rafanova.jpg",
+					"category": {
+						"id": "168",
+						"name": "Sports",
+						"alias": "sports"
+					}
+				}],
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				}
+			}]
+		}, {
+			"name": "The Buzz",
+			"label": "Template 6",
+			"records": [{
+				"id": "213",
+				"name": "The Buzz",
+				"catAlias": "the-buzz",
+				"template": {
+					"name": "General",
+					"id": "131",
+					"alias": null
+				},
+				"article": [{
+					"id": "62604",
+					"type": "News",
+					"subType": "Article",
+					"title": "Paytm CEO to buy posh Rs 82 crore house",
+					"main_title": "Paytm CEO Vijay Shekhar Sharma to buy Rs 82 crore Delhi Golf Links property",
+					"summary": "Vijay Shekhar Sharma, the CEO of Paytm is all set to buy a residential property at New Delhi's uber-posh Golf Links for a whopping Rs. 82 crore.",
+					"alias": "paytm-ceo-vijay-shekhar-sharma-lutyens-zone-e-commerce",
+					"shortUrl": "https://goo.gl/9wHPpP",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496829234-paytm_ceo.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496829234-paytm_ceo.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62580",
+					"type": "News",
+					"subType": "Article",
+					"title": "'Moderate' drinking linked to brain damage: Study",
+					"main_title": "Study claims even 'moderate' drinking can damage the brain",
+					"summary": "Researchers claim that the hippocampus, a part of the brain that governs memory, is vulnerable to moderate, long-term drinking.",
+					"alias": "study-moderate-drinking-linked-to-brain-damage",
+					"shortUrl": "https://goo.gl/5liNdY",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496812263-Drunk.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496812263-Drunk.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62543",
+					"type": "News",
+					"subType": "Article",
+					"title": "Mentor of KXIP and former cricketer, reads Viru\u2019s 2-line CV",
+					"main_title": "Virender Sehwag sends two-line resume to BCCI for coach\u2019s job",
+					"summary": "Instead of sending a detailed Curriculum Vitae (CV), Sehwag is learnt to have sent an application which only mentioned himself as mentor of Kings XI Punjab in the IPL.",
+					"alias": "bcci-virender-sehwag-coach-application-two-line-resume",
+					"shortUrl": "https://goo.gl/r87N12",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496766110-sehwahhh.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496766110-sehwahhh.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62462",
+					"type": "News",
+					"subType": "Article",
+					"title": "'Super Dads' join UNICEF campaign on father's role",
+					"main_title": "Sachin, David Beckham, Novak Djokovic join UNICEF campaign highlighting father's role",
+					"summary": "Sachin Tendulkar will participate in a special UNICEF campaign that seeks to shed light on the important role played by fathers in a child's early development.",
+					"alias": "sachin-tendulkar-david-beckham-novak-djokovic-unicef-super-dads-initiative-fathers",
+					"shortUrl": "https://goo.gl/YR2wSQ",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496726080-1479144893-sachin.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496726080-1479144893-sachin.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62457",
+					"type": "News",
+					"subType": "Article",
+					"title": "In bid to uplift rural India, NRIs adopt 500 villages ",
+					"main_title": "In bid to uplift rural India, NRIs adopt 500 villages ",
+					"summary": "NRIs living in the United States have taken an initiative to adopt 500 Indian villages in order to develop the rural areas of the country.",
+					"alias": "nri-500-villages-rural-india-development-big-ideas-for-better-india",
+					"shortUrl": "https://goo.gl/nsZyGS",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496723289-rural_india.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496723289-rural_india.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62443",
+					"type": "News",
+					"subType": "Article",
+					"title": "Harvard retracts offers to students over offensive memes ",
+					"main_title": "Harvard retracts offers to 10 students over offensive memes",
+					"summary": "After realising that a few of their prospective students allegedly posted offensive photos and messages on social media, Harvard College has withdrawn admission offers sent to them.",
+					"alias": "harvard-retracts-offers-to-10-students-over-offensive-memes",
+					"shortUrl": "https://goo.gl/r0UCzZ",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496689233-harvard.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496689233-harvard.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62425",
+					"type": "News",
+					"subType": "Article",
+					"title": "Union Minister climbs a tree to find mobile network",
+					"main_title": "MoS Finance Arjun Ram Meghwal climbs a tree to find mobile connectivity",
+					"summary": "Meghwal was facing connectivity issues when the local villagers suggested this way out",
+					"alias": "minister-of-state-finance-arjun-ram-meghwal-climbs-tree-to-find-mobile-connectivity",
+					"shortUrl": "https://goo.gl/4d4xDe",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496681555-arjun_ram_meghwal.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496681555-arjun_ram_meghwal.JPG",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62409",
+					"type": "News",
+					"subType": "Article",
+					"title": "Civil services exam topper scored 55.3% marks ",
+					"main_title": "Nandini K R topped civil services exam with 55.3 percent marks, reveals UPSC",
+					"summary": "The topper of recently announced Civil Services exam, Nandini K R got 55.3 percent marks, showing the tough standards adopted by the UPSC while conducting the test.",
+					"alias": "nandini-k-r-upsc-civil-services-topper-553-percent-exam",
+					"shortUrl": "https://goo.gl/d0YdZk",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496671970-nkr.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496671970-nkr.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62382",
+					"type": "News",
+					"subType": "Article",
+					"title": "Genius monkeys trade stolen goodies for food in Bali",
+					"main_title": "Genius monkeys trade stolen goodies for food in Bali",
+					"summary": "In an Indonesian temple, Monkeys are running a ransom racket on tourists by stealing valuables such as glasses, hats, cameras or even cash to exchange them for food, researchers discover.",
+					"alias": "genius-monkeys-trade-stolen-goodies-food-bali",
+					"shortUrl": "https://goo.gl/O3WZzQ",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496656844-GettyImages-630083296.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496656844-GettyImages-630083296.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62378",
+					"type": "News",
+					"subType": "Article",
+					"title": "World Environment Day: Kerala plants 1 crore saplings",
+					"main_title": "World Environment Day: Kerala leads by example, plants 1 crore saplings",
+					"summary": "\u00a0The Kerala government observed World Environment Day on Monday distributed one crore saplings for planting across the state.",
+					"alias": "world-environment-day-kerala-leads-by-example-plants-1-crore-saplings",
+					"shortUrl": "https://goo.gl/XcM7ZX",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496654262-GettyImages-450145780.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496654262-GettyImages-450145780.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62368",
+					"type": "News",
+					"subType": "Article",
+					"title": "Indian-American spelling bee champ mocked",
+					"main_title": "Foreign journalist slammed for assuming Indian-American girl knows Sanskrit",
+					"summary": "A foreign journalist has invited the wrath of netizens for casually assuming that Ananya Vinay is \"used to using\" Sanskrit due to her heritage.",
+					"alias": "sanskrit-racist-ananya-vinay-spelling-bee-championship-chris-cuomo",
+					"shortUrl": "https://goo.gl/fKL4F5",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496649607-spellingbeewinner_0.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496649607-spellingbeewinner_0.JPG",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62322",
+					"type": "News",
+					"subType": "Article",
+					"title": "New book details Saddam's love for Mary J Blige",
+					"main_title": "Saddam Hussein loved sweets and listening to Mary J. Blige, details new book",
+					"summary": "According to a new book, Saddam Hussein spent his final days listening to Mary J Blige, eating muffins and telling anecdotes to US prison guards whom he befriended.",
+					"alias": "saddam-hussein-mary-j-blige-iraq-dictator-american-imperialism-weapons-of-mass-destruction-tony",
+					"shortUrl": "https://goo.gl/Is57hW",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496567506-saddam_hussein.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496567506-saddam_hussein.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}, {
+					"id": "62268",
+					"type": "News",
+					"subType": "Article",
+					"title": "Two giant, rare 'corpse' flowers bloom in Chicago",
+					"main_title": "Nature's biggest, rarest - not to mention smelliest - flowers bloom in Chicago",
+					"summary": "It takes up to 10 years for one plant to flower, and then it does so for about one day.",
+					"alias": "biggest-rarest-smelliest-flowers-bloom-in-chicago",
+					"shortUrl": "https://goo.gl/LWFxGM",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496468960-000_P7761.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496468960-000_P7761.jpg",
+					"category": {
+						"id": "213",
+						"name": "The Buzz",
+						"alias": "the-buzz"
+					}
+				}]
+			}]
+		}, {
+			"name": "Technology & Business",
+			"label": "Template 4",
+			"records": [{
+				"id": "169",
+				"name": "Technology & Science",
+				"catAlias": "technology-science",
+				"article": [{
+					"id": "62608",
+					"type": "News",
+					"subType": "Article",
+					"title": "Threat of asteroid impact looming over Earth: experts",
+					"main_title": "Threat of a sizeable asteroid hitting the earth is growing: Czech scientists",
+					"summary": "The Czech scientists who analyzed 144 fireballs from a recent meteor shower warn about the growing risk\u00a0of a sizeable asteroid hitting the Earth\u00a0with every passing year.",
+					"alias": "threat-of-a-sizeable-asteroid-hitting-the-earth-is-growing-czech-scientists",
+					"shortUrl": "https://goo.gl/sKcAut",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496830216-ast_1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496830216-ast_1.jpg",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62607",
+					"type": "News",
+					"subType": "Article",
+					"title": "10 exciting features iPhones will get with iOS 11",
+					"main_title": "10 most exciting features iPhones and iPads will get with iOS 11",
+					"summary": "The most exciting time of the year for Apple fans has arrived - the opening day of WWDC 2017",
+					"alias": "10-most-exciting-features-iphones-and-ipads-will-get-with-ios-11",
+					"shortUrl": "https://goo.gl/l5pg7H",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496830045-GettyImages-692718542.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496830045-GettyImages-692718542.jpg",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62598",
+					"type": "News",
+					"subType": "Article",
+					"title": "Apple's HomePod challenge: It is super expensive",
+					"main_title": "Apple wants to rock the market with HomePod, faces challenges",
+					"summary": "HomePod, infused with machine smarts by Siri digital assistant, will be priced at $349 when it begins shipping in December.",
+					"alias": "apple-homepod-speakers-crank-volume-iphones-silicon-valley",
+					"shortUrl": "https://goo.gl/8R8Mhl",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496824588-homepod.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496824588-homepod.jpg",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62504",
+					"type": "News",
+					"subType": "Article",
+					"title": "WhatsApp introduces 5 new updates",
+					"main_title": "WhatsApp introduces 5 new updates: Know about them here",
+					"summary": "Here are the five new features introduced by WhatsApp everyone should know about.",
+					"alias": "watsapp-introduces-5-new-updates",
+					"shortUrl": "https://goo.gl/PP8vma",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496746488-whaa_1.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496746488-whaa_1.jpg",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62482",
+					"type": "News",
+					"subType": "Article",
+					"title": "This planet records max temperature of 4,326 \u00b0C",
+					"main_title": "This planet records maximum temperature of 4,326 degree Celsius. It\u2019s true",
+					"summary": "Researchers have said that the planet, which is similar to Jupiter, orbits a massive star KELT-9 every day and a half.",
+					"alias": "this-planet-records-maximum-temperature-of-4326-degree-celsius-it\u2019s-true",
+					"shortUrl": "https://goo.gl/Kp3zx1",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496736491-kelt9.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496736491-kelt9.jpg",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62474",
+					"type": "News",
+					"subType": "Article",
+					"title": "Apple's biggest announcements at WWDC",
+					"main_title": "Smart speakers and the most powerful desktop: Apple's biggest announcements at WWDC",
+					"summary": "Apple unveiled its 'HomePod' speaker as it moved to challenge Amazon Alexa and Google Home as a smart home and music hub.",
+					"alias": "homepod-imac-pro-ipad-ios-11-siri-high-sierra-apple-biggest-announcements-at-wwdc",
+					"shortUrl": "https://goo.gl/ZX8u3W",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496731970-GettyImages-692718542.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496731970-GettyImages-692718542.jpg",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62435",
+					"type": "News",
+					"subType": "Article",
+					"title": "Watch: Apple World Wide Developer Conference 2017",
+					"main_title": "Apple CEO Tim Cook makes big announcements at WWDC 2017",
+					"summary": "The annual World Wide Apple Developer Conference (WWDC) 2017 is taking place in San Jose, California.",
+					"alias": "apple-annual-developer-conference-wwdc-2017-tim-cook",
+					"shortUrl": "https://goo.gl/UJoE1f",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/media/1496685936-Tim_Cook.png",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/media/1496685936-Tim_Cook.png",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62387",
+					"type": "News",
+					"subType": "Video",
+					"title": "ISRO successfully launches GSLV Mk III rocket",
+					"main_title": "The nation is proud, tweets PM Modi as ISRO successfully launches GSLV Mk III rocket",
+					"summary": "Here's what you need to know about the mission 43-metre (140-foot) rocket that lifted off from Sriharikota.",
+					"alias": "isro-launch-gslv-mk-iii-rocket-gsat19-rocket",
+					"shortUrl": "https://goo.gl/XJWvZG",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496664608-123.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496664608-123.jpg",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					},
+					"duration": "00:03:20"
+				}, {
+					"id": "62357",
+					"type": "News",
+					"subType": "Article",
+					"title": "ISRO shows off strength with launch of mega rocket",
+					"main_title": "India's most powerful homegrown rocket is set to launch from Sriharikota",
+					"summary": "The GSLV Mk III rocket boasts a powerful engine that has been developed in India over many years.",
+					"alias": "india-mega-rocket-to-launch-from-sriharikota",
+					"shortUrl": "https://goo.gl/fy3WTv",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496638651-ISRO.PNG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496638651-ISRO.PNG",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62311",
+					"type": "News",
+					"subType": "Article",
+					"title": "Pregnancy not critical for breast cancer patients ",
+					"main_title": "Pregnancy not dangerous for women who had breast cancer",
+					"summary": "Becoming pregnant after a diagnosis of breast cancer does not raise the risk of the cancer returning, said the largest study of its kind to date.",
+					"alias": "pregnancy-not-dangerous-for-women-who-had-breast-cancer",
+					"shortUrl": "https://goo.gl/VSTsmG",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496557154-Pegnancy.PNG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496557154-Pegnancy.PNG",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62271",
+					"type": "News",
+					"subType": "Article",
+					"title": "'Tallinn Manual 2.0' - the rulebook for cyberwar",
+					"main_title": "'Tallinn Manual 2.0' - A unique collection of law on cyber conflict",
+					"summary": "The latest edition aims to pin down the rules that governments should follow when doing battle in virtual reality.",
+					"alias": "tallinn-manual-the-rulebook-for-cyberwar-wannacry",
+					"shortUrl": "https://goo.gl/oEmrhn",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496481853-cyber_security_indiatimes.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496481853-cyber_security_indiatimes.jpg",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62241",
+					"type": "News",
+					"subType": "Article",
+					"title": "Google moves to block 'annoying' ads ",
+					"main_title": "Google moves to block 'annoying' ads in browser",
+					"summary": "This move is part of a broader effort by industry players to filter out certain types of marketing messages that draw complaints",
+					"alias": "google-moves-to-block-annoying-ads-in-browser",
+					"shortUrl": "https://goo.gl/FVJanZ",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496417509-Google1474442422-cropped.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496417509-Google1474442422-cropped.jpg",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}, {
+					"id": "62217",
+					"type": "News",
+					"subType": "Article",
+					"title": "Gravitational waves from black holes spotted again",
+					"main_title": "Third gravitational waves detected three billion light-years away",
+					"summary": "The galactic mash-up which produced the gravitational waves occurred some three billion light-years away.",
+					"alias": "gravitational-waves-spotted-again",
+					"shortUrl": "https://goo.gl/alcE4Z",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496399626-black_hole.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496399626-black_hole.JPG",
+					"category": {
+						"id": "169",
+						"name": "Technology & Science",
+						"alias": "technology-science"
+					}
+				}],
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				}
+			}, {
+				"id": "183",
+				"name": "Business & Economy",
+				"catAlias": "business-economy",
+				"article": [{
+					"id": "62603",
+					"type": "News",
+					"subType": "Article",
+					"title": "RBI keeps repo rate unchanged, lowers growth forecast ",
+					"main_title": "No change in repo rate, growth projection dips slightly: RBI policy meet ",
+					"summary": "The fifth meeting of Monetary Policy Committee (MPC) maintained the repo rate, at which it lends to the banks, at 6.25 per cent.",
+					"alias": "rbi-keeps-repo-rate-unchanged-lowers-growth-forecast-key-lending-rate-slr",
+					"shortUrl": "https://goo.gl/b4X6JZ",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496828302-RBI_2.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496828302-RBI_2.JPG",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62587",
+					"type": "News",
+					"subType": "Article",
+					"title": "Markets shine ahead of RBI bi-monthly policy meet ",
+					"main_title": "Markets shine ahead of RBI bi-monthly policy meet ",
+					"summary": "The Met Department yesterday revised upward its initial monsoon forecast and said it is likely to be better than earlier expected.",
+					"alias": "stock-market-sensex-nifty-monsoon-forecast",
+					"shortUrl": "https://goo.gl/bmwY8e",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496817097-sensex.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496817097-sensex.JPG",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62556",
+					"type": "News",
+					"subType": "Article",
+					"title": "GST to have marginal neg impact on solar projects",
+					"main_title": "GST to have marginally negative impact on new solar power projects: ICRA",
+					"summary": "The impact of the GST rate on capital cost for new solar power projects is estimated to be limited to about six per cent, said ICRA group head.",
+					"alias": "icra-gst-solar-pv-cells-modules-marginal-negative-impact",
+					"shortUrl": "https://goo.gl/6HN2nV",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496773649-1486380037-solar-power1470746004-cropped.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496773649-1486380037-solar-power1470746004-cropped.jpg",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62535",
+					"type": "News",
+					"subType": "Article",
+					"title": "GST: IT industry demands lower tax on products",
+					"main_title": "IT hardware firms request uniform GST rate of 18% on IT products",
+					"summary": "The IT hardware industry body MAIT has sought clarity from the government on two rates proposed for printers under goods and services tax (GST)",
+					"alias": "it-hardware-industry-gst-rates-printers-monitors",
+					"shortUrl": "https://goo.gl/dqOcUs",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496762767-1496567446-gstreporrrt.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496762767-1496567446-gstreporrrt.jpg",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62524",
+					"type": "News",
+					"subType": "Article",
+					"title": "Economy running only on public spending: Singh",
+					"main_title": "Economy: Public sector investment has collapsed, says Manmohan Singh",
+					"summary": "Private sector investment has collapsed and the economy is running on just one engine of public spending, said former PM Manmohan Singh.",
+					"alias": "india-economic-slow-down-gdp-manmohan-singh",
+					"shortUrl": "https://goo.gl/aBR6vH",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496757960-1491492344-1479979114-Manmohan_Singh.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496757960-1491492344-1479979114-Manmohan_Singh.jpg",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62519",
+					"type": "News",
+					"subType": "Article",
+					"title": "Setup GST facilitation cell: Cab Secy to ministries",
+					"main_title": "Cabinet Secretary P K Sinha directs ministries to setup GST facilitation cell",
+					"summary": "Sinha said that the GST facilitation cell should be managed by a small core team headed by the economic adviser or any other officer of the ministry.",
+					"alias": "cabinet-secretary-sinha-setup-gst-facilitation-cell-ministries",
+					"shortUrl": "https://goo.gl/ZXCwFQ",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496754882-1496738848-1495779004-gstnn.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496754882-1496738848-1495779004-gstnn.jpg",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62501",
+					"type": "News",
+					"subType": "Article",
+					"title": "Land deals to close 20% lower than pre-RERA prices",
+					"main_title": "Real estate deals likely to close 20-25% lower than pre-RERA, pre-demonetisation prices",
+					"summary": "Considering RERA having limited the developers' capacity to buy land with advance payments from customers, land prices in Mumbai Metropolitan region have started falling.",
+					"alias": "cidco-land-aunctions-lower-bids-rera-demonetisation",
+					"shortUrl": "https://goo.gl/EzxtOA",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496745445-1484638045-1482746814-real_estate.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496745445-1484638045-1482746814-real_estate.JPG",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62475",
+					"type": "News",
+					"subType": "Article",
+					"title": "Asia markets struggle as key political events approach",
+					"main_title": "Asia markets struggle as Comey testimony, British elections approach",
+					"summary": "Asian Stocks struggle as investors wait nervously for key political events later in the week with James Comey to testify to Congress and Britain holding a general election.",
+					"alias": "asian-stock-markets-james-comey-british-general-elections-stocks-fbi",
+					"shortUrl": "https://goo.gl/b1FslQ",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496732042-stocks.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496732042-stocks.jpg",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62489",
+					"type": "News",
+					"subType": "Article",
+					"title": "GST to help India achieve 9% growth rate: Niti Aayog CEO",
+					"main_title": "GST to help India achieve 9% growth rate: Niti Aayog CEO",
+					"summary": "NITI Aayog CEO Amitabh Kant said on Tuesday that the Goods and Services Tax (GST) will help India achieve nine per cent growth rate.",
+					"alias": "gst-goods-and-services-tax-amitabh-kant-9-per-cent-growth-tax-reform-narendra-modi",
+					"shortUrl": "https://goo.gl/az6lRm",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496754882-1496738848-1495779004-gstnn.jpg",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496754882-1496738848-1495779004-gstnn.jpg",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62486",
+					"type": "News",
+					"subType": "Video",
+					"title": "Birla Voyage Navigate 2017 - Episode 6",
+					"main_title": "Birla Voyage Navigate 2017 - Episode 6",
+					"summary": "Voyage, Birla Sun Life Asset Management Company's annual distributor meet is held every year and is a metaphor for the journey of wealth creation. \r\n\r\n",
+					"alias": "birla-voyage-navigate-2017-episode-6",
+					"shortUrl": "https://goo.gl/Og8qdV",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496738411-12q34890.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496738411-12q34890.JPG",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					},
+					"duration": "00:25:02"
+				}, {
+					"id": "62467",
+					"type": "News",
+					"subType": "Article",
+					"title": "Wi-Fi soon to be made available on Indian flights",
+					"main_title": "Wi-Fi soon to be made available on Indian flights",
+					"summary": "Security agencies have given the go-ahead for in-flight WiFi services but with reasonable security measures to prevent its misuse.",
+					"alias": "wifi-wireless-internet-security-agencies-air-traffic-control-indian-airplanes",
+					"shortUrl": "https://goo.gl/FdvjhK",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496729212-wifi.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496729212-wifi.JPG",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62464",
+					"type": "News",
+					"subType": "Article",
+					"title": "Sensex continues record run, Nifty on a roll ",
+					"main_title": " Nifty strikes all-time high, Sensex follows suit with fresh record ",
+					"summary": "The trading index got a significant push as investors widened positions ahead of the Reserve Bank of India\u2019s policy review meet to be held on Wednesday.",
+					"alias": "rbi-sensex-nifty-stock-market-trading-investments",
+					"shortUrl": "https://goo.gl/ubYHjb",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496726819-sensex_2.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496726819-sensex_2.JPG",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}, {
+					"id": "62456",
+					"type": "News",
+					"subType": "Article",
+					"title": "Indian companies received less H-1B visas in 2016: report",
+					"main_title": "Less H-1B visas received by Indian companies in 2016: report ",
+					"summary": "It said the 9,356 new H-1B petitions for the top seven Indian-based companies approved in fiscal 2016 represent only 0.006 per cent of the US labour force.",
+					"alias": "us-h1b-visa-approval-rates-indian-companies-donald-trump",
+					"shortUrl": "https://goo.gl/t3YiWp",
+					"altText": null,
+					"imageThumb": "http://cloudfront.timesnow.tv/story/1496721316-visa.JPG",
+					"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1496721316-visa.JPG",
+					"category": {
+						"id": "183",
+						"name": "Business & Economy",
+						"alias": "business-economy"
+					}
+				}],
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				}
+			}]
+		}, {
+			"name": "photoGalleries",
+			"label": "photoGalleries",
+			"article": [{
+				"id": "61408",
+				"type": "News",
+				"subType": "Image Gallery",
+				"title": "MI vs RPS, Final - Action in images",
+				"main_title": "IPL 2017 Final: Mumbai Indians vs Rising Pune Supergiant",
+				"alias": "ipl-2017-final-rising-pune-supergiant-mumbai-indians",
+				"altText": null,
+				"shortUrl": "https://goo.gl/lBHfqS",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1495378800-mf1.jpg",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1495378800-mf1.jpg",
+				"photoCount": "10",
+				"category": {
+					"id": "2668",
+					"name": "IPL 2017",
+					"alias": "ipl-2017"
+				}
+			}, {
+				"id": "61332",
+				"type": "News",
+				"subType": "Image Gallery",
+				"title": "Qualifier 2, MI vs KKR - Action in images",
+				"main_title": "Indian Premier League, Qualifier 2: Mumbai Indians vs Kolkata Knight Riders",
+				"alias": "ipl-2017-qualifier-2-kolkata-knight-riders-mumbai-indians",
+				"altText": null,
+				"shortUrl": "https://goo.gl/CNgdCI",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1495204344-mq21.jpg",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1495204344-mq21.jpg",
+				"photoCount": "9",
+				"category": {
+					"id": "2668",
+					"name": "IPL 2017",
+					"alias": "ipl-2017"
+				}
+			}, {
+				"id": "61227",
+				"type": "News",
+				"subType": "Image Gallery",
+				"title": "Eliminator, SH vs KKR - Action in images",
+				"main_title": "Indian Premier League, Eliminator - Sunrisers Hyderabad vs Kolkata Knight Riders",
+				"alias": "ipl-2017-eliminator-sunrisers-hyderabad-kolkata-knight-riders-match-images",
+				"altText": null,
+				"shortUrl": "https://goo.gl/tjuPLO",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1495032364-me1.jpg",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1495032364-me1.jpg",
+				"photoCount": "7",
+				"category": {
+					"id": "2668",
+					"name": "IPL 2017",
+					"alias": "ipl-2017"
+				}
+			}, {
+				"id": "59112",
+				"type": "News",
+				"subType": "Image Gallery",
+				"title": "Meet the cheerleaders of 2017 Indian Premier League ",
+				"main_title": "Meet the cheerleaders of 2017 Indian Premier League ",
+				"alias": "meet-the-cheerleaders-of-2017-indian-premier-league",
+				"altText": null,
+				"shortUrl": "https://goo.gl/PeQthg",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1491908640-m14_1.JPG",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1491908640-m14_1.JPG",
+				"photoCount": "28",
+				"category": {
+					"id": "2668",
+					"name": "IPL 2017",
+					"alias": "ipl-2017"
+				}
+			}, {
+				"id": "61154",
+				"type": "News",
+				"subType": "Image Gallery",
+				"title": "Qualifier 1, MI vs RPS - Action in images",
+				"main_title": "Indian Premier League, Qualifier 1 - Mumbai Indians vs Rising Pune Supergiant",
+				"alias": "indian-premier-league-2017-qualifier-1-mumbai-indians-vs-rising-pune-supergiant",
+				"altText": null,
+				"shortUrl": "https://goo.gl/AULz2k",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1495541439-IPL_Mumbai_Pune.jpg",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1495541439-IPL_Mumbai_Pune.jpg",
+				"photoCount": "8",
+				"category": {
+					"id": "2668",
+					"name": "IPL 2017",
+					"alias": "ipl-2017"
+				}
+			}, {
+				"id": "61037",
+				"type": "News",
+				"subType": "Image Gallery",
+				"title": "Match 56, DD vs RCB - Action in images",
+				"main_title": "Indian Premier League, Match 56: Delhi Daredevils vs Royal Challengers Bangalore",
+				"alias": "2017-indian-premier-league-delhi-daredevils-royal-challengers-bangalore",
+				"altText": null,
+				"shortUrl": "https://goo.gl/xfeOHa",
+				"template": {
+					"id": "131",
+					"name": "General",
+					"alias": null
+				},
+				"imageThumb": "http://cloudfront.timesnow.tv/story/1494773083-m561.JPG",
+				"thumbnailImage": "http://cloudfront.timesnow.tv/styles/times_medium/s3/story/1494773083-m561.JPG",
+				"photoCount": "9",
+				"category": {
+					"id": "2668",
+					"name": "IPL 2017",
+					"alias": "ipl-2017"
+				}
+			}]
+		}]
+	}
+}
